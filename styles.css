@@ -1,0 +1,41 @@
+img {
+    height: 120px;
+    margin: 4.2px;
+
+
+}
+
+a {
+    color: #9e1c05;
+    border: dotted;
+}
+
+.insta {
+    margin: 5px;
+    padding: 5px;
+    border-style: dashed;
+    background-color: #e07a55;
+    border-radius: 5px;
+
+}
+
+Logic {
+    text-align: right;
+}
+
+.text {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: #ffddd1;
+    border-style: dotted;
+
+
+}
+
+p {
+    font-size: 15px;
+}
+
+body {
+    background: url("https://i0.wp.com/lyricsfa.com/wp-content/uploads/2020/07/Logic-No-Pressure-Album-Lyrics.jpg?fit=1200%2C1200&ssl=1");
+}
